@@ -264,7 +264,7 @@ int main() {
             }
         }
         
-        //handles drawing right triangles
+        //handles drawing of right triangles
         else if (shape == 4)
         {
             if (isFilled == 1)
@@ -318,7 +318,7 @@ int main() {
             }
         }
         
-        //handles drawing left triangles
+        //handles drawing of left triangles
         else if (shape == 5)
         {
             if (isFilled == 1)
@@ -363,6 +363,7 @@ int main() {
                 }
             }
         }
+	//prompt to repeat application
         cout << "Would you like to try again? (y/n): ";
         cin >> tryAgain;
         if (tryAgain == "n" || tryAgain == "N")
