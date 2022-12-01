@@ -16,7 +16,7 @@ int main() {
 	    {
 	        cout << "********************************************\n";
         	cout << "*                                          *\n";
-        	cout << "*       Welcome to my shapes program       *\n";
+        	cout << "*          Welcome to SHAPE MAKER          *\n";
         	cout << "*                                          *\n";
         	cout << "*           Enter type of shape            *\n";
         	cout << "*    1-Equilateral  Triangle 2-Square      *\n";
